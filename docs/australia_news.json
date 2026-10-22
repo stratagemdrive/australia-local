@@ -1,5 +1,47 @@
 [
   {
+    "title": "Republican leader embarrassed by Ali G film says he plans to sue Sacha Baron Cohen: ‘A liar and a pervert’",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/film/2026/oct/22/republican-leader-embarrassed-by-ali-g-film-says-he-plans-to-sue-sacha-baron-cohen-a-liar-and-a-pervert",
+    "published_date": "2026-10-22T15:10:18Z",
+    "category": "Military"
+  },
+  {
+    "title": "Pete Hegseth’s staff break priceless historic globe he requested for office",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/us-news/2026/oct/22/pete-hegseth-eisenhower-globe-pentagon-office-broken",
+    "published_date": "2026-10-22T15:04:44Z",
+    "category": "Military"
+  },
+  {
+    "title": "Iran threatens oil and AI facilities across seven Gulf countries if US and Israel renew attacks",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
+    "published_date": "2026-10-22T15:03:00Z",
+    "category": "Military"
+  },
+  {
+    "title": "Zelenskyy says fresh Russian strikes show 'no change' in Kremlin position",
+    "source": "ABC News Australia",
+    "url": "https://www.abc.net.au/news/2026-10-23/zelensky-says-fresh-russian-strikes-show-no-change-in-kremlin-po/107299146",
+    "published_date": "2026-10-22T13:38:45Z",
+    "category": "Military"
+  },
+  {
+    "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+    "published_date": "2026-10-22T10:14:23Z",
+    "category": "Military"
+  },
+  {
+    "title": "‘Russia Responded to Talks With Missiles’: 21 Ballistic Missiles Strike Kyiv, Zelensky Says - Kyiv Post",
+    "source": "Google News Australia",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjeTJZMThlTFNFanpnajVVMEFleGZWVWVWT2xoWFpRYlNHQUZ3Q3oweE15QXR0MFgwWWJoMnlwUHlmUnQ3QXlsQ0hiNA?oc=5",
+    "published_date": "2026-10-22T08:23:43Z",
+    "category": "Military"
+  },
+  {
     "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
     "source": "The Guardian Australia",
     "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
@@ -98,186 +140,207 @@
     "category": "Military"
   },
   {
-    "title": "France sends in troops as Paris simmers in aftermath of riots - The Age",
+    "title": "England v Sri Lanka: Brook makes history in men’s tri-series cricket ODI – live",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live",
+    "published_date": "2026-10-22T15:32:15Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "‘Looksmaxxing’ influencer Clavicular pleads not guilty to raping teen",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/us-news/2026/oct/22/clavicular-pleads-not-guilty-rape",
+    "published_date": "2026-10-22T15:17:49Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Lech Poznan v Sunderland, Juventus v Rennes, and more: Europa League – live",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+    "published_date": "2026-10-22T15:15:43Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Emery and Nagelsmann are top targets if Manchester United sack Carrick",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/football/2026/oct/22/unai-emery-julian-nagelsmann-manchester-united-michael-carrick",
+    "published_date": "2026-10-22T15:06:26Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Ali G: Who Iz I? review – Sacha Baron Cohen’s high-stakes satire punches up and down with spectacular bad taste",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste",
+    "published_date": "2026-10-22T15:00:29Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Astronomers challenge dating of Van Gogh’s Starry Night",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/artanddesign/2026/oct/22/astronomy-dating-art-van-gogh-starry-night-painting",
+    "published_date": "2026-10-22T15:00:28Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Heartbreak, hope and human imperfection: Leonard Cohen’s greatest songs – ranked!",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/music/2026/oct/22/leonard-cohen-best-songs-ranked",
+    "published_date": "2026-10-22T14:53:35Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hacking attempts surge as websites race to patch PHP issues",
+    "source": "ABC News Australia",
+    "url": "https://www.abc.net.au/news/2026-10-23/php-vulnerabilities-ai-hacks-surge/107299204",
+    "published_date": "2026-10-22T14:22:54Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "The great moth revival: how bogongs have bounced back",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back",
+    "published_date": "2026-10-22T14:00:36Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Sexualised, violent threats: female Victorian MPs fear for their safety as they fight more than just next month’s election",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/23/victorian-mps-women-high-alert-safety-state-election-helen-haines-ntwnfb",
+    "published_date": "2026-10-22T14:00:35Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Surfing faces a cultural reckoning as women’s voices grow louder over sexual abuse allegations | Lucy Small",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/sport/2026/oct/23/surfing-sexual-abuse-allegations-ntwnfb",
+    "published_date": "2026-10-22T14:00:35Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "‘I can’t sleep at night’: international students forced to navigate the impact of Labor’s sudden visa changes",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/23/international-students-forced-to-navigate-labor-visa-changes-immigration-ntwnfb",
+    "published_date": "2026-10-22T14:00:34Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Delays, deodorant and ripped up carpet: how airlines handle mid-flight ‘biological hazards’",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/travel/2026/oct/23/how-airlines-handle-mid-flight-biological-hazards-travel",
+    "published_date": "2026-10-22T14:00:34Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Alan Jones on trial: Alleged victim’s mother 'trusted' Jones | Week 11 - podcast",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/australia-news/audio/2026/oct/23/alan-jones-on-trial-alleged-victims-mother-trusted-jones-week-11-full-story-podcast",
+    "published_date": "2026-10-22T14:00:32Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "A financially comfortable friend has set up a GoFundMe for vet bills. Is this socially acceptable? | Leading questions",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/oct/23/a-friend-has-set-up-a-gofundme-for-vet-bills-is-this-socially-acceptable",
+    "published_date": "2026-10-22T14:00:31Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "I longed for my big break. Then a Nobel winner and my girlfriend showed me why success isn’t everything | Rebecca Shaw",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/23/what-i-learned-about-creative-life-from-a-nobel-winner-and-my-girlfriend",
+    "published_date": "2026-10-22T14:00:30Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "‘Jane Austen is for everyone’: novelist Diana Reid on adapting Sense and Sensibility – and surprising Brits with her accent",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/books/2026/oct/23/jane-austen-is-for-everyone-novelist-diana-reid-sense-and-sensibility-adaptation",
+    "published_date": "2026-10-22T14:00:29Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Half-matched bone marrow transplants show high survival in young aplastic anemia patients - News-Medical",
     "source": "Google News Australia",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMHF4YlM3UWp0NThGaUs2RTJJYUZNc3l6cjNkSjVVdDR0b2ZJOFpUX2VQa19DUndnSUExekxSRHN5a2h4ZU00OXVSa3B0Q1JWTTMwN0hjbHRSRWlWalNDQlZjbWZOWThLdWNLdGpSajk1U1ZhSEJDcllYanhndVFwMHNmeG53MngtQUlyaGV2QXZqNDFPSlV3WGlSOXl3eF9lTHFaRG9SWks3UkNsNnVpNDBzRWw1WlV3dXA3dVpB?oc=5",
-    "published_date": "2026-10-20T19:46:14Z",
-    "category": "Military"
-  },
-  {
-    "title": "The Guardian view on Alberta’s referendum: Canada holds together – against Donald Trump | Editorial",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/commentisfree/2026/oct/20/the-guardian-view-on-albertas-referendum-canada-holds-together-against-donald-trump",
-    "published_date": "2026-10-20T17:43:18Z",
-    "category": "Military"
-  },
-  {
-    "title": "From Iran to AI: the six key voter issues shaping the US midterm elections",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/voter-issues-midterms-elections",
-    "published_date": "2026-10-20T16:52:16Z",
-    "category": "Military"
-  },
-  {
-    "title": "France to deploy military forces during expected weekend protests – Europe live",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-    "published_date": "2026-10-20T15:09:30Z",
-    "category": "Military"
-  },
-  {
-    "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
-    "published_date": "2026-10-20T15:09:28Z",
-    "category": "Military"
-  },
-  {
-    "title": "Vast Beatles museum, hailed as ‘extraordinary’ by Paul McCartney, to open in Liverpool in 2028",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/music/2026/oct/20/vast-beatles-museum-hailed-as-extraordinary-by-paul-mccartney-to-open-in-liverpool-in-2028",
-    "published_date": "2026-10-20T15:00:38Z",
-    "category": "Military"
-  },
-  {
-    "title": "Former Australian sprint champion charged with child sex offence",
-    "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-22/sprinter-jake-doran-charged-child-sex-offence/107295988",
-    "published_date": "2026-10-22T00:57:27Z",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYkQzdUFRU3liSVItYUJtRVJVZXZweXJKMUtnM2NxYS1TdUdXNXhIWVI5b09GVnlVemRoVTVLNGVCdjhwZU5hQ0hNdC1BWEVlYV9QeVZMempYMnhzYXM5aDBDcWs3dGE1SlRQallPZTBUbkxSS0lyc290MTl5eXUwejdpcE1rQ3B2aC1hWi1sdnczcVNmWkdMVHVLRGZVOVk5TGJxcU9YWUxwNmRHVndnVzZaQWg0Q2RNbVlhdHgxVEtHVHBQRzFTbFJFU0JOT2RzbVNV?oc=5",
+    "published_date": "2026-10-22T13:51:00Z",
     "category": "Local Events"
   },
   {
-    "title": "‘Outrageous’: Ferrari in reverse after EV hate - Herald Sun",
+    "title": "Ancient astronomy and a restorative mural: photos of the day – Thursday",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/news/gallery/2026/oct/22/ancient-astronomy-and-a-restorative-mural-photos-of-the-day-thursday",
+    "published_date": "2026-10-22T13:49:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Two wickets left: Australia’s Test salvage mission falls apart - CODE Sports",
     "source": "Google News Australia",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcG9XSEEwellhaHJUOEVUak1mYzZPWmRzaXF6R0otTkZnb3paX1N5Z2UzYVlSN0EtdTltamFuNk5wTkVfZ0FTS1A4WWtVRGVsd1RYVEFEd09VcWpyVE5MTG56S05yYXlZd2U3QW1NYzkzbEpoS1p2UkNPZFE2R1NxT3JfYlhFVW9SV3N4MzhvUmsweVcyd0hRVFN1TnV6RjN1Z0syVHRLLWZiQkpWb19wTnNPQmlHYThoVkpiUjVsejRuTXM?oc=5",
-    "published_date": "2026-10-22T00:48:36Z",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOGlSTGtBcVRpY25rR2RVQkJrLXFsN2QyRFY4ay1FSHZjalRfMGt6eHRod3RHcGp3RENydTNCZDR4SE9Ma0k5bDhhaUVVSTNPZEcwNWhhWjFUQVlmeUlQYk9ualdZMk5xTUNzTXljQ0k5MFByUEZGVUtWdENLejg5eW82cjVCT1hmN0NnMUJZWExId1VqdW1TYU54ZnRtcjlEclZmLWhkS011WS1VZmpUVm1jbWgzb0x4ZmNLWGlZRS1WbG9TeDdFamRFa1hqaDRiQ0JSNU5tbFJMR0lFOHZXQ3NmU09TVlMwS0pTcm9fbFE5dw?oc=5",
+    "published_date": "2026-10-22T13:46:38Z",
     "category": "Local Events"
   },
   {
-    "title": "Australians facing spike in data breaches after 'critical' flaw uncovered",
-    "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-22/data-breach-warning-after-ai-uncovers-critical-php-flaw/107295516",
-    "published_date": "2026-10-22T00:48:22Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Flaw in PHP computer language leads to shutdown of websites around world",
+    "title": "Glee’s pro-LGBTQ+ vision captured 2010s hope. Can a reboot handle Trump’s America? | Alim Kheraj",
     "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world",
-    "published_date": "2026-10-22T00:39:15Z",
-    "category": "Local Events"
+    "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/glee-reboot-lgbtq-politics-trump",
+    "published_date": "2026-10-22T14:45:40Z",
+    "category": "Energy"
   },
   {
-    "title": "Potential PNG signing helping to heal Cooper Bai's family rift",
+    "title": "Bartók: Miraculous Mandarin Suite, The Wooden Prince album review – vivid colours and astute pacing",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/music/2026/oct/22/bartok-miraculous-mandarin-suite-the-wooden-prince-album-review",
+    "published_date": "2026-10-22T13:00:05Z",
+    "category": "Energy"
+  },
+  {
+    "title": "Snowy Hydro 2.0 has blown out to 12 times its original cost – but the CEO says it ‘could have been worse’",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/22/snowy-hydro-2-0-blows-out-to-12-times-original-cost",
+    "published_date": "2026-10-22T11:00:41Z",
+    "category": "Energy"
+  },
+  {
+    "title": "Snowy 2.0 to cost 12 times more than initial budget with further delays",
     "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-22/nrl-cooper-bai-marcus-bai-rift-healed-amid-png-chiefs-signing/107295720",
-    "published_date": "2026-10-22T00:20:05Z",
-    "category": "Local Events"
+    "url": "https://www.abc.net.au/news/2026-10-22/cost-of-snowy-hydro-expansion-doubles/107276162",
+    "published_date": "2026-10-22T11:00:08Z",
+    "category": "Energy"
   },
   {
-    "title": "Sperm whale stranded near Devonport in Tasmania's north-west",
-    "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-22/tas-stranded-sperm-whale-turners-beach-near-devonport/107295598",
-    "published_date": "2026-10-22T00:08:32Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Semaglutide and teduglutide reduce immune-driven gut injury in mice - News-Medical",
+    "title": "Snowy 2.0 to cost 12 times more than initial budget with further delays - ABC News & Headlines – Australian Broadcasting Corporation",
     "source": "Google News Australia",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGxIWmc1NDZhYzlfSWhtSmtHbDNVSEI3T1RRX09aaTM0aEtnNVhESjZvNHRDMUVHMzdhR1EtbjE0VXdFbWc5MFViWXNKTTB4T0lxS2hDUEFncVFUTExlb0JtTmpvWnBFTXZxaEM2am5od1ZlU1BIM2JIRElRbHFGQV9xZHFib1MxbFlLeEU5ejV6RVNSeWoyRGY0Z3NrRzNNRlVLbTFpZjNhajN6WkZJbXFjdEZwZw?oc=5",
-    "published_date": "2026-10-22T00:03:00Z",
-    "category": "Local Events"
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXN2N1hQakg3WjVKNFFaeWNRdDdrWi0tVHRfUjZaSVZFR0tqc0ZObnBVSDFEckVkTUU5TmVSaUJzTEFoeGVFbE80VnoyZUoxM3V1bEg2RV8yYlU1WWRPR2FVM0g4X3RFbGFBMWp1U3VudEJTMjFiRm91aE9zSDhYRzZYUW4zQngzR3VtUjhnRQ?oc=5",
+    "published_date": "2026-10-22T11:00:08Z",
+    "category": "Energy"
   },
   {
-    "title": "NAB staff speak out after mass job cuts revealed",
-    "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-22/nab-staff-speak-out-after-mass-redundancy-announcement/107292280",
-    "published_date": "2026-10-21T23:59:52Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Airbnb cracks down on check-out chores after travellers push back",
-    "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-22/air-bnb-scraps-checkout-chores/107295458",
-    "published_date": "2026-10-21T23:56:39Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "I spent a week watching Helen Haines in action in Canberra. It was the most inspiring week of my life | Tim Berenyi",
+    "title": "Proms, parties and gender politics: amazing photos from American dancefloors – and what they tell us about a changing nation",
     "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/commentisfree/2026/oct/22/helen-haines-canberra-inspiring-in-action-australia-politics-ntwnfb",
-    "published_date": "2026-10-21T23:56:36Z",
-    "category": "Local Events"
+    "url": "https://www.theguardian.com/artanddesign/2026/oct/22/life-magazine-dance-photography-lindy-hop-rockettes-margot-fonteyn-rudolf-nureyev",
+    "published_date": "2026-10-22T07:00:08Z",
+    "category": "Energy"
   },
   {
-    "title": "Outback giant yabby Australia's latest 'big thing'",
-    "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-22/big-yabby-statue-windorah-outback-queensland/107286084",
-    "published_date": "2026-10-21T23:38:31Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Officials confirm flesh-eating New World screwworm parasite found in US wildlife",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
-    "published_date": "2026-10-21T23:36:31Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Meta fined $25b in US for deceiving users about Facebook privacy",
-    "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-22/meta-ordered-to-pay-new-mexico-us25-billion/107294964",
-    "published_date": "2026-10-21T23:35:45Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case",
-    "published_date": "2026-10-21T23:33:34Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Aussie star ‘thrown to wolves’ as axe looms - News.com.au",
+    "title": "Evening Wrap: ASX 200 slides as NCK profit warning flags major consumer slowdown, mining and energy stocks dumped - Market Index",
     "source": "Google News Australia",
-    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPb0ZPOEhRbkdxRFl4b0lSdVlHU2tDMUJHdlZmNWUtakFFbG9pN3Z3RW03dzQ0NlhjU3JRWmVhLU1rSDZadE16dGRiNVc0MXVWODV1Q29fQW1xeUF0RXlkSmwyUU9BUmg1UjRLNnl0eXg1alc5a213bG5UY0ZCbkZzLVVjc0Y5Z1piMllkbFR1WUFqYjFwcmtWS2xPMFMxeHhmc3NiVHliaEVkV0Q4b09yOWhLZ3pPcll3WlcxRk11ZlZ6aHhzRXN4cXZCUmdyVzlCN1BQUC1ibnhKMHJ3N0dmWDJxaTdqREtFZzRremtLTWxwUVB6bTdyN1NKWEg5N2hyMWpkWEg3Zw?oc=5",
-    "published_date": "2026-10-21T23:23:42Z",
-    "category": "Local Events"
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUg5VHVucWpSdUtfTGVudXRpUWFmRGo3MmxsYWkzVlZCUC01bUYzMjd4MGVwdklrNVRROVhHRk95VTJiTlllY3BqN1hjc0tHRnFTOENVTVhyY1gzLVRlakRBZXBqdWR0X3RTU3RnTmdEaU96WHp5c0Z2d2tNbjlFcGFhdm5xWm5PRkFGd3dvNXhNZk5jZXQ3cFRwY2I4TjA0T0t5a2dJdE5GQQ?oc=5",
+    "published_date": "2026-10-22T06:38:47Z",
+    "category": "Energy"
   },
   {
-    "title": "Alleged driver charged over hit-and-run that killed cyclist in Perth's south",
-    "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-22/alleged-driver-charged-over-bibra-lake-fatal-hit-and-run-crash/107295464",
-    "published_date": "2026-10-21T23:10:39Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Breaking: Alleged driver charged over hit-and-run that killed cyclist in Perth's south - ABC News & Headlines – Australian Broadcasting Corporation",
-    "source": "Google News Australia",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTRhcENtbktZV2ZYTTYxcVRhLXpZOGdqQlNuQ0pjejFtWXAwRTBoMDM0OFpDd1lYbDNMcVRSZ05wSmhDUVVFbVVxR0hHMFduQTVxWDVwMDI0bkdhNE1lRnRwZ1M5b3BxZDFMOXcwQ2VBZ3dGalNKTmVkS1hVeVFTWVlMQlR3Sk96RVRva1RHV2Itb2hpOXpIRzRVcDJPdDNvbWVlMXdPLUhIUkkzcWpRcQ?oc=5",
-    "published_date": "2026-10-21T23:10:39Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+    "title": "Strongmen like Trump would destroy the planet out of pure spite – and Brazil shows we’re all in peril | George Monbiot",
     "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-    "published_date": "2026-10-21T23:06:36Z",
-    "category": "Local Events"
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/22/strongmen-donald-trump-destroy-planet-brazil-flavio-bolsonaro",
+    "published_date": "2026-10-22T05:00:07Z",
+    "category": "Energy"
   },
   {
-    "title": "Pope Leo will not need further cancer treatment, doctors say",
-    "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-22/pope-leo-will-not-need-further-cancer-treatment-doctors-say/107295358",
-    "published_date": "2026-10-21T23:06:23Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Pope Leo will not need further cancer treatment, doctors say - ABC News & Headlines – Australian Broadcasting Corporation",
-    "source": "Google News Australia",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdW1UcGFqN0UyVmxnN1BHclJOMGQ4cjQ3bTVPb2lsc2ExT0tkYUo5ZDQ4N21yMWtoOEl1OEpfMkxsMnI0Q3RQY2s1aG50cUl4N1l6Q0FWTWlYOU9fTG1hR1Y3U3NuQ0NuQ0h6TVh6VGhfRmR4M2V6UjRXMmwzV3pOTGxNSXVsUnRNQzhaUzFPRVFWaW8zeGh3LUlKSkhCajYzTGFxb01iOW5lb0hR?oc=5",
-    "published_date": "2026-10-21T23:06:23Z",
-    "category": "Local Events"
+    "title": "18 again: I returned to my life in 1983 – to reckless adventures, in a world soaked in alcohol",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/oct/22/18-again-i-returned-to-my-life-in-1983-to-reckless-adventures-in-a-world-soaked-in-alcohol",
+    "published_date": "2026-10-22T04:00:07Z",
+    "category": "Energy"
   },
   {
     "title": "As Miatta ignites the speaker’s gas-fuelled inferno, Reform show up as snowflakes | John Crace",
@@ -357,67 +420,18 @@
     "category": "Energy"
   },
   {
-    "title": "The little-known friendship between Nina Simone and Langston Hughes",
+    "title": "Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals",
     "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/culture/2026/oct/20/nina-simone-langston-hughes-friendship-book",
-    "published_date": "2026-10-20T15:59:39Z",
-    "category": "Energy"
+    "url": "https://www.theguardian.com/business/2026/oct/22/jim-chalmers-economy-speech-rising-unemployment-inflation",
+    "published_date": "2026-10-22T11:30:43Z",
+    "category": "Economy"
   },
   {
-    "title": "Landholders and politicians push for tougher laws on renewable energy developments",
+    "title": "Chalmers says investors feel good about Australia despite gloom at home",
     "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-20/regional-voices-queensland-calls-for-landholder-protection/107289452",
-    "published_date": "2026-10-20T07:46:12Z",
-    "category": "Energy"
-  },
-  {
-    "title": "Cumulative impacts of data centre gas plants overlooked, court hears",
-    "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-20/southern-highlands-data-centre-gas-plant-land-environment-court/107289002",
-    "published_date": "2026-10-20T07:19:51Z",
-    "category": "Energy"
-  },
-  {
-    "title": "Do not be distracted by global crises. Nature cannot wait for a better year – we must act now | Steven Guilbeault",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/environment/2026/oct/20/do-not-be-distracted-by-other-global-crises-nature-cannot-wait-for-a-better-year-we-must-act-now",
-    "published_date": "2026-10-20T07:00:20Z",
-    "category": "Energy"
-  },
-  {
-    "title": "‘How green are our valleys?’: in the footsteps of miners on south Wales’s new forest trail",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/travel/2026/oct/20/south-wales-new-forest-trail-old-mining-villages",
-    "published_date": "2026-10-20T06:00:20Z",
-    "category": "Energy"
-  },
-  {
-    "title": "The pest I’ll never forget: the maggots that rained down like hail",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/environment/2026/oct/20/the-pest-ill-never-forget-maggots-rained-down-like-hail",
-    "published_date": "2026-10-20T06:00:19Z",
-    "category": "Energy"
-  },
-  {
-    "title": "Inquiry urges halt to plan to burn Sydney's waste in regional towns",
-    "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-20/inquiry-recommends-moratorium-on-proposed-incinerators/107287646",
-    "published_date": "2026-10-20T05:50:02Z",
-    "category": "Energy"
-  },
-  {
-    "title": "Saudi Arabia is learning the hard way: they can’t count on Trump for protection | Mohamad Bazzi",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
-    "published_date": "2026-10-19T11:00:55Z",
-    "category": "Energy"
-  },
-  {
-    "title": "Wind makes conditions tricky for fire crews in Tasmania's north",
-    "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-19/bushfire-alert-nunamara-fire-crews-tasmania-north/107284800",
-    "published_date": "2026-10-19T08:05:27Z",
-    "category": "Energy"
+    "url": "https://www.abc.net.au/news/2026-10-22/chalmers-hails-boom-in-business-investment/107298274",
+    "published_date": "2026-10-22T11:30:03Z",
+    "category": "Economy"
   },
   {
     "title": "ASX200 LIVE: ASX falls; Fortescue warns China dispute could hit guidance - AFR",
@@ -546,18 +560,32 @@
     "category": "Economy"
   },
   {
-    "title": "Nige seems tired and bored of himself as Kemi conjures a telepathic budget | John Crace",
+    "title": "Three things the Albanese government could do right now to make people feel better off",
     "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/politics/2026/oct/20/nigel-farage-tired-bored-kemi-badenoch-conjures-telepathic-budget",
-    "published_date": "2026-10-20T16:56:33Z",
-    "category": "Economy"
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/23/three-things-the-albanese-government-could-do-right-now-to-make-people-feel-better-off",
+    "published_date": "2026-10-22T14:00:31Z",
+    "category": "Diplomacy"
   },
   {
-    "title": "Angus Taylor warned: ratifying EU FTA a ‘serious mistake’ - The Australian",
-    "source": "Google News Australia",
-    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNREozYkZpdzN4ZGdJV0Z5QXBCbDk3MmlrYlNwTVJEYV9iS3cyWXBZUG8wSVo0RzdYVEtYVDBoQ2lBeU9XVlMtLUllcEdjM0ZOdW90b3B6aHZzMlc2NEplNTY0TVZkSFIxVHR6TlJaVWhDbDNUZmFpeE5CSWRnX2dsZHh4eVNFU1BjakNrV2ZpeUgxME9qRVlOVlh4Q0NScThwMXpfT2hQempfeXJkaThENTJRVWVGdmJDSGRkVEFHUDFmOEFtRU9xN2FWNjBROTR1eElrbnV0aU5JcTU2WEk1a2puM3ZGYlFBNTBPbTVScE5FM2xXUFBpZW1NOUwyREx6TnBJYTY3eDJZdXlPZEJZT01DR0o1TW8?oc=5",
-    "published_date": "2026-10-20T10:02:15Z",
-    "category": "Economy"
+    "title": "Almost every shallow-water coral reef on the planet faces ecosystem collapse by 2075, UN advisors say",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say",
+    "published_date": "2026-10-22T12:00:45Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Donald Trump has sold out Ukraine. He makes appeaser Chamberlain look like a man of iron principle | Simon Tisdall",
+    "source": "The Guardian Australia",
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/22/donald-trump-ukraine-betrayal-putin-nato",
+    "published_date": "2026-10-22T11:00:41Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "PM was planning golf club photo-op when news of his membership broke",
+    "source": "ABC News Australia",
+    "url": "https://www.abc.net.au/news/2026-10-22/anthony-albanese-marrickville-golf-club-media-event/107298134",
+    "published_date": "2026-10-22T07:03:36Z",
+    "category": "Diplomacy"
   },
   {
     "title": "US orders diplomats to leave Saudi Arabia amid Houthi strikes",
@@ -669,34 +697,6 @@
     "source": "The Guardian Australia",
     "url": "https://www.theguardian.com/world/2026/oct/20/ukraine-war-briefing-zelenskyy-claims-us-deliberately-delaying-interceptor-missile-deliveries-to-kyiv",
     "published_date": "2026-10-20T00:44:45Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-",
-    "published_date": "2026-10-19T19:00:04Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Eagles QB Hurts reportedly played after not sleeping for 36 hours amid blood clot diagnosis",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/sport/2026/oct/19/eagles-qb-jalen-hurts-to-miss-rest-of-season-after-blood-clots-travel-to-his-lungs",
-    "published_date": "2026-10-19T18:40:04Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
-    "source": "The Guardian Australia",
-    "url": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
-    "published_date": "2026-10-19T18:05:14Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Ukraine receives 'no early warning' as missile barrage pounds Kyiv",
-    "source": "ABC News Australia",
-    "url": "https://www.abc.net.au/news/2026-10-20/ukraine-russia-early-warning-us-intelligence/107285706",
-    "published_date": "2026-10-19T16:11:26Z",
     "category": "Diplomacy"
   }
 ]
